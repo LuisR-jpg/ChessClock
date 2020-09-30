@@ -6,7 +6,6 @@ This project consists of three parts, which can be found here:
 * Arduino Programming:
     * Project files are in the **code** directory in this repository.
     * There are four versions, all of them work.
-	* *Chess_clock_v2* is the final version.
 * 3D Design: 
     * **3DModel** directory has the final design of the clock.
 
