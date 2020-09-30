@@ -2,7 +2,9 @@
 
 ![alt text](https://github.com/LuisR-jpg/ChessClock/blob/master/Clock.jpeg)
 
-This project consists of three parts, which can be found here:
+
+
+#### This project consists of three parts, which can be found here:
 * Arduino Programming:
     * Project files are in the **code** directory in this repository.
     * There are four versions, all of them work.
@@ -11,3 +13,4 @@ This project consists of three parts, which can be found here:
 
 * Electronics:
     * Arduino nano was used to handle all of the processes this project implies.
+    * ![alt text](https://github.com/LuisR-jpg/ChessClock/blob/master/Electronics.jpeg)
